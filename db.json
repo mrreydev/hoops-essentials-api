@@ -1,0 +1,719 @@
+{
+    "products": [
+        {
+            "id": "id-6",
+            "name": "Spalding Nba All Conference Size 6",
+            "category": "basketball",
+            "brand": "spalding",
+            "description": "Spalding Nba All Conference Size 6",
+            "image": "basketball-1",
+            "price": 599000
+        },
+        {
+            "id": "id-32",
+            "name": "Puma Clyde All Pro",
+            "category": "shoes",
+            "brand": "puma",
+            "description": "Puma Clyde All Pro",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "puma-6",
+            "price": 2199000
+        },
+        {
+            "id": "id-9",
+            "name": "Nike Kd Playground 8p Basketball Size 7",
+            "category": "basketball",
+            "brand": "nike",
+            "description": "Nike Kd Playground 8p Basketball Size 7",
+            "image": "basketball-4",
+            "price": 679000
+        },
+        {
+            "id": "id-26",
+            "name": "Nike Lebron 19",
+            "category": "shoes",
+            "brand": "nike",
+            "description": "Nike Lebron 19",
+            "variants": [
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "nike-6",
+            "price": 2999000
+        },
+        {
+            "id": "id-13",
+            "name": "Nike Kevin Durant Brooklyn Nets Icon Edition Swingman Jersey",
+            "category": "jersey",
+            "brand": "nike",
+            "description": "Nike Kevin Durant Brooklyn Nets Icon Edition Swingman Jersey",
+            "variants": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "image": "jersey-3",
+            "price": 999000
+        },
+        {
+            "id": "id-14",
+            "name": "Nike Dallas Mavericks Luka Doncic City Edition Swingman Jersey",
+            "category": "jersey",
+            "brand": "nike",
+            "description": "Nike Dallas Mavericks Luka Doncic City Edition Swingman Jersey",
+            "image": "jersey-4",
+            "price": 999000
+        },
+        {
+            "id": "id-3",
+            "name": "Adidas Harden Stepback 2",
+            "category": "shoes",
+            "brand": "adidas",
+            "description": "Budget Model of James Harden Shoes",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "44",
+                "45"
+            ],
+            "image": "adidas-3",
+            "price": 1090000
+        },
+        {
+            "id": "id-30",
+            "name": "Puma Court Rider Blue Orange",
+            "category": "shoes",
+            "brand": "puma",
+            "description": "Puma Court Rider Blue Orange",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "45"
+            ],
+            "image": "puma-4",
+            "price": 1699000
+        },
+        {
+            "id": "id-28",
+            "name": "Puma Court Rider I Blue Green",
+            "category": "shoes",
+            "brand": "puma",
+            "description": "Puma Court Rider I Blue Green",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "puma-2",
+            "price": 1499000
+        },
+        {
+            "id": "id-1",
+            "name": "Adidas Dame 7 Extply Dame Time",
+            "category": "shoes",
+            "brand": "adidas",
+            "description": "Seventh signature shoes of Damian Lillard",
+            "variants": [
+                "40",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "adidas-1",
+            "price": 1900000
+        },
+        {
+            "id": "id-24",
+            "name": "Nike Zoom Freak 2",
+            "category": "shoes",
+            "brand": "nike",
+            "description": "Nike Zoom Freak 2",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43"
+            ],
+            "image": "nike-4",
+            "price": 1299000
+        },
+        {
+            "id": "id-35",
+            "name": "Nike 3pk Everyday Lightweight Socks",
+            "category": "accessories",
+            "brand": "nike",
+            "description": "Nike 3pk Everyday Lightweight Socks",
+            "image": "socks-2",
+            "price": 189000
+        },
+        {
+            "id": "id-22",
+            "name": "Nike Pg 5 Ep",
+            "category": "shoes",
+            "brand": "nike",
+            "description": "Nike Pg 5 Ep",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "nike-2",
+            "price": 1499000
+        },
+        {
+            "id": "id-18",
+            "name": "Air Jordan Jayson Tatum X Aj 35",
+            "category": "shoes",
+            "brand": "jordan",
+            "description": "Air Jordan Jayson Tatum X Aj 35","variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "jordan-3",
+            "price": 2180000
+        },
+        {
+            "id": "id-37",
+            "name": "Nike 3pk Everyday Cushion Crew Socks",
+            "category": "accessories",
+            "brand": "nike",
+            "description": "Nike 3pk Everyday Cushion Crew Socks",
+            "image": "socks-4",
+            "price": 189000
+        },
+        {
+            "id": "id-31",
+            "name": "Puma Clyde All-pro Team",
+            "category": "shoes",
+            "brand": "puma",
+            "description": "Puma Clyde All-pro Team",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "puma-5",
+            "price": 2199000
+        },
+        {
+            "id": "id-44",
+            "name": "Under Armour Flow Futr X",
+            "category": "shoes",
+            "brand": "underarmour",
+            "description": "Under Armour Flow Futr X",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "underarmour-7",
+            "price": 1699000
+        },
+        {
+            "id": "id-43",
+            "name": "Under Armour Curry 9 Sesame Street Taking Cookies",
+            "category": "shoes",
+            "brand": "underarmour",
+            "description": "Under Armour Curry 9 Sesame Street Taking Cookies",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "underarmour-6",
+            "price": 2399000
+        },
+        {
+            "id": "id-27",
+            "name": "Puma Triple Basketball White Black",
+            "category": "shoes",
+            "brand": "puma",
+            "description": "Puma Triple Basketball White Black",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "puma-1",
+            "price": 1799000
+        },
+        {
+            "id": "id-16",
+            "name": "Air Jordan Aj 36 Psychic Energy Pf",
+            "category": "shoes",
+            "brand": "jordan",
+            "description": "Air Jordan Aj 36 Psychic Energy Pf",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "jordan-1",
+            "price": 2797000
+        },
+        {
+            "id": "id-21",
+            "name": "Nike Kyrie 8 Infinity Ep All Star Weekend",
+            "category": "shoes",
+            "brand": "nike",
+            "description": "Nike Kyrie 8 Infinity Ep All Star Weekend",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "nike-1",
+            "price": 1979000
+        },
+        {
+            "id": "id-23",
+            "name": "Nike Air Zoom G.t. Cut",
+            "category": "shoes",
+            "brand": "nike",
+            "description": "Nike Air Zoom G.t. Cut",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "nike-3",
+            "price": 2569000
+        },
+        {
+            "id": "id-2",
+            "name": "Adidas Harden Vol. 4",
+            "category": "shoes",
+            "brand": "adidas",
+            "description": "Fourth signature shoes of James Harden",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "adidas-2",
+            "price": 1199000
+        },
+        {
+            "id": "id-7",
+            "name": "Spalding Commander Camo Sz7 Composite Basketball",
+            "category": "basketball",
+            "brand": "spalding",
+            "description": "Spalding Commander Camo Sz7 Composite Basketball",
+            "image": "basketball-2",
+            "price": 699000
+        },
+        {
+            "id": "id-15",
+            "name": "Nike Lebron James Los Angeles Lakers City Edition 2020 Swingman Jersey",
+            "category": "jersey",
+            "brand": "nike",
+            "description": "Nike Lebron James Los Angeles Lakers City Edition 2020 Swingman Jersey",
+            "variants": [
+                "S",
+                "M",
+                "L",
+                "XL"
+            ],
+            "image": "jersey-5",
+            "price": 999000
+        },
+        {
+            "id": "id-40",
+            "name": "Under Armour Curry 9 Sesame Street Blue Pink",
+            "category": "shoes",
+            "brand": "underarmour",
+            "description": "Under Armour Curry 9 Sesame Street Blue Pink",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "underarmour-3",
+            "price": 2399000
+        },
+        {
+            "id": "id-29",
+            "name": "Puma Court Rider I Black",
+            "category": "shoes",
+            "brand": "puma",
+            "description": "Puma Court Rider I Black",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "puma-3",
+            "price": 1699000
+        },
+        {
+            "id": "id-39",
+            "name": "Under Armour Curry 9 Sesame Street Yellow Pink",
+            "category": "shoes",
+            "brand": "underarmour",
+            "description": "Under Armour Curry 9 Sesame Street Yellow Pink",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "underarmour-2",
+            "price": 2399000
+        },
+        {
+            "id": "id-5",
+            "name": "Adidas D Rose Son Of Chi Shoes - Godspeed",
+            "category": "shoes",
+            "brand": "adidas",
+            "description": "Adidas D Rose Son Of Chi Shoes - Godspeed",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "adidas-5",
+            "price": 1499000
+        },
+        {
+            "id": "id-38",
+            "name": "Under Armour Curry 9 Sesame Street Black",
+            "category": "shoes",
+            "brand": "underarmour",
+            "description": "Under Armour Curry 9 Sesame Street Black",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "underarmour-1",
+            "price": 2399000
+        },
+        {
+            "id": "id-8",
+            "name": "Puma Basketball Top Leather",
+            "category": "basketball",
+            "brand": "puma",
+            "description": "Puma Basketball Top Leather",
+            "image": "basketball-3",
+            "price": 459000
+        },
+        {
+            "id": "id-36",
+            "name": "Nike 3pk Everyday Cushion Low Socks",
+            "category": "accessories",
+            "brand": "nike",
+            "description": "Nike 3pk Everyday Cushion Low Socks",
+            "image": "socks-3",
+            "price": 199000
+        },
+        {
+            "id": "id-42",
+            "name": "Under Armour Curry 9 Sesame Street Dribble Me Elmo",
+            "category": "shoes",
+            "brand": "underarmour",
+            "description": "Under Armour Curry 9 Sesame Street Dribble Me Elmo",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "underarmour-5",
+            "price": 2399000
+        },
+        {
+            "id": "id-10",
+            "name": "Spalding Neverflat Elite Indoor-outdoor Basketball",
+            "category": "basketball",
+            "brand": "spalding",
+            "description": "Spalding Neverflat Elite Indoor-outdoor Basketball",
+            "image": "basketball-5",
+            "price": 339000
+        },
+        {
+            "id": "id-34",
+            "name": "Air Jordan Jumpman 3pk Crew Socks",
+            "category": "accessories",
+            "brand": "jordan",
+            "description": "Air Jordan Jumpman 3pk Crew Socks",
+            "image": "socks-1",
+            "price": 299000
+        },
+        {
+            "id": "id-19",
+            "name": "Air Jordan Aj 35 Low Pf",
+            "category": "shoes",
+            "brand": "jordan",
+            "description": "Air Jordan Aj 35 Low Pf",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "jordan-4",
+            "price": 2180000
+        },
+        {
+            "id": "id-33",
+            "name": "Puma Clyde Hardwood Team",
+            "category": "shoes",
+            "brand": "puma",
+            "description": "Puma Clyde Hardwood Team",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "puma-7",
+            "price": 1699000
+        },
+        {
+            "id": "id-17",
+            "name": "Air Jordan Aj 36 Pf",
+            "category": "shoes",
+            "brand": "jordan",
+            "description": "Air Jordan Aj 36 Pf",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "jordan-2",
+            "price": 2797000
+        },
+        {
+            "id": "id-41",
+            "name": "Under Armour Embiid 1",
+            "category": "shoes",
+            "brand": "underarmour",
+            "description": "Under Armour Embiid 1",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "underarmour-4",
+            "price": 1789000
+        },
+        {
+            "id": "id-25",
+            "name": "Nike Kd 14 Bred",
+            "category": "shoes",
+            "brand": "nike",
+            "description": "Nike Kd 14 Bred",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "nike-5",
+            "price": 1799000
+        },
+        {
+            "id": "id-11",
+            "name": "Nike Zion Williamson Swingman Jersey",
+            "category": "jersey",
+            "brand": "jordan",
+            "description": "Nike Zion Williamson Swingman Jersey",
+            "variants": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "image": "jersey-1",
+            "price": 999000
+        },
+        {
+            "id": "id-4",
+            "name": "Adidas D.o.n Issue #3 Prep School",
+            "category": "shoes",
+            "brand": "adidas",
+            "description": "Third signature shoes of Donovan Mitchel",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "adidas-4",
+            "price": 1800000
+        },
+        {
+            "id": "id-20",
+            "name": "Air Jordan Aj 11 Retro Cool Grey",
+            "category": "shoes",
+            "brand": "jordan",
+            "description": "Air Jordan Aj 11 Retro Cool Grey",
+            "variants": [
+                "40",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45"
+            ],
+            "image": "jordan-5",
+            "price": 3890000
+        },
+        {
+            "id": "id-12",
+            "name": "Nike Anthony Davis La Lakers Icon Edition Swingman Jersey",
+            "category": "jersey",
+            "brand": "nike",
+            "description": "Nike Anthony Davis La Lakers Icon Edition Swingman Jersey",
+            "variants": [
+                "S",
+                "M",
+                "L",
+                "XL",
+                "XXL"
+            ],
+            "image": "jersey-2",
+            "price": 999000
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "slug": "shoes",
+            "name": "Sepatu"
+        },
+        {
+            "id": 2,
+            "slug": "basketball",
+            "name": "Basketball"
+        },
+        {
+            "id": 3,
+            "slug": "basketball",
+            "name": "Basketball"
+        },
+        {
+            "id": 4,
+            "slug": "jersey",
+            "name": "Jersey"
+        },
+        {
+            "id": 5,
+            "slug": "accessories",
+            "name": "Accessories"
+        }
+    ],
+    "brands": [
+        {
+            "id": 1,
+            "slug": "nike",
+            "name": "Nike"
+        },
+        {
+            "id": 2,
+            "slug": "adidas",
+            "name": "Adidas"
+        },
+        {
+            "id": 3,
+            "slug": "jordan",
+            "name": "Jordan"
+        },
+        {
+            "id": 4,
+            "slug": "puma",
+            "name": "Puma"
+        },
+        {
+            "id": 5,
+            "slug": "underarmour",
+            "name": "Under Armour"
+        },
+        {
+            "id": 6,
+            "slug": "spalding",
+            "name": "Spalding"
+        }
+    ]
+}
