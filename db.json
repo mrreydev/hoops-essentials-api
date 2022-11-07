@@ -308,40 +308,6 @@
             ],
             "image": "nike-1",
             "price": 1979000
-        },
-        {
-            "id": "id-23",
-            "name": "Nike Air Zoom G.t. Cut",
-            "category": "shoes",
-            "brand": "nike",
-            "description": "Nike Air Zoom G.t. Cut",
-            "variants": [
-                "40",
-                "41",
-                "42",
-                "43",
-                "44",
-                "45"
-            ],
-            "image": "nike-3",
-            "price": 2569000
-        },
-        {
-            "id": "id-2",
-            "name": "Adidas Harden Vol. 4",
-            "category": "shoes",
-            "brand": "adidas",
-            "description": "Fourth signature shoes of James Harden",
-            "variants": [
-                "40",
-                "41",
-                "42",
-                "43",
-                "44",
-                "45"
-            ],
-            "image": "adidas-2",
-            "price": 1199000
         }
     ],
     "categories": [
