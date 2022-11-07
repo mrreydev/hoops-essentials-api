@@ -308,32 +308,38 @@
         {
             "id": 1,
             "slug": "nike",
-            "name": "Nike"
+            "name": "Nike",
+            "image": "logo-nike.svg"
         },
         {
             "id": 2,
             "slug": "adidas",
-            "name": "Adidas"
+            "name": "Adidas",
+            "image": "logo-adidas.svg"
         },
         {
             "id": 3,
             "slug": "jordan",
-            "name": "Jordan"
+            "name": "Jordan",
+            "image": "logo-jordan.svg"
         },
         {
             "id": 4,
             "slug": "puma",
-            "name": "Puma"
+            "name": "Puma",
+            "image": "logo-puma.svg"
         },
         {
             "id": 5,
             "slug": "underarmour",
-            "name": "Under Armour"
+            "name": "Under Armour",
+            "image": "logo-underarmour.svg"
         },
         {
             "id": 6,
             "slug": "spalding",
-            "name": "Spalding"
+            "name": "Spalding",
+            "image": "logo-spalding.svg"
         }
     ]
 }
