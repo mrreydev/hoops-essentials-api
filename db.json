@@ -334,12 +334,6 @@
             "slug": "underarmour",
             "name": "Under Armour",
             "image": "logo-underarmour.svg"
-        },
-        {
-            "id": 6,
-            "slug": "spalding",
-            "name": "Spalding",
-            "image": "logo-spalding.svg"
         }
     ]
 }
