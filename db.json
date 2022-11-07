@@ -1,15 +1,6 @@
 {
     "products": [
         {
-            "id": "id-6",
-            "name": "Spalding Nba All Conference Size 6",
-            "category": "basketball",
-            "brand": "spalding",
-            "description": "Spalding Nba All Conference Size 6",
-            "image": "basketball-1",
-            "price": 599000
-        },
-        {
             "id": "id-32",
             "name": "Puma Clyde All Pro",
             "category": "shoes",
