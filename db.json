@@ -133,21 +133,6 @@
             "price": 1900000
         },
         {
-            "id": "id-24",
-            "name": "Nike Zoom Freak 2",
-            "category": "shoes",
-            "brand": "nike",
-            "description": "Nike Zoom Freak 2",
-            "variants": [
-                "40",
-                "41",
-                "42",
-                "43"
-            ],
-            "image": "nike-4",
-            "price": 1299000
-        },
-        {
             "id": "id-22",
             "name": "Nike Pg 5 Ep",
             "category": "shoes",
