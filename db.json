@@ -157,15 +157,6 @@
             "price": 1299000
         },
         {
-            "id": "id-35",
-            "name": "Nike 3pk Everyday Lightweight Socks",
-            "category": "accessories",
-            "brand": "nike",
-            "description": "Nike 3pk Everyday Lightweight Socks",
-            "image": "socks-2",
-            "price": 189000
-        },
-        {
             "id": "id-22",
             "name": "Nike Pg 5 Ep",
             "category": "shoes",
